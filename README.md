@@ -12,4 +12,4 @@ Developed with:
 
 Dependencies:
 - Weka 3.7
-- <a href="https://github.com/dstarrago/meta-learning">meta-learning project (only for rough-set metric analisys)</a>
+- <a href="https://github.com/dstarrago/meta-learning">meta-learning project</a> (only for rough-set metric analisys)
